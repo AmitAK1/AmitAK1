@@ -52,8 +52,12 @@ Experienced in building production-grade ML systems with measurable impact. Stro
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile) 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=google-chrome)](https://your-portfolio.com)
+📧 **Email**: [Replace with your email]  
+💼 **LinkedIn**: [Replace with your LinkedIn profile]  
+🌐 **Portfolio**: [Replace with your portfolio/website if available]
 
 📍 Open to AI/ML internship opportunities | Available for Summer 2026
+
+---
+
+*Note: Replace the contact information placeholders above with your actual details to make this profile complete.*
