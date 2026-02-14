@@ -1,4 +1,4 @@
-# Amit Kumar | AI/ML Engineer
+# Amit Anil Kamble | AI/ML Engineer
 
 **Applied Machine Learning • Deep Learning • Computer Vision • NLP**
 
@@ -52,12 +52,6 @@ Experienced in building production-grade ML systems with measurable impact. Stro
 
 ## 📬 Contact
 
-📧 **Email**: [Replace with your email]  
-💼 **LinkedIn**: [Replace with your LinkedIn profile]  
-🌐 **Portfolio**: [Replace with your portfolio/website if available]
+📧 **Email**:  Amit.ak0599@gmail.com
+💼 **LinkedIn**:  www.linkedin.com/in/amit-kamble-b893b5214
 
-📍 Open to AI/ML internship opportunities | Available for Summer 2026
-
----
-
-*Note: Replace the contact information placeholders above with your actual details to make this profile complete.*
