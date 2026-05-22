@@ -22,7 +22,19 @@ I build production-minded ML and CV systems end-to-end—from data + modeling to
 
 ---
 
-### 2) [Text-Guided BraTS Segmentation](https://github.com/AmitAK1/Text-Guided-BraTS-Segmentation)
+### 2) [SanitiSense AI](https://github.com/AmitAK1/sanitisense-ai)
+**Civic AI operating system for urban sanitation: multimodal reporting + route optimization + epidemic risk forecasting**
+- Hackathon-grade, **end-to-end system design** with strong real-world product thinking (citizens → workers → authorities)
+- **Multimodal inputs**: photo-first reporting + multilingual voice notes; spam filtering & verification workflow
+- Cloud-native architecture with **AWS Lambda + API Gateway + DynamoDB + S3**, and GenAI services via **Amazon Bedrock**
+
+**Live / Demo**: *(share link here — I can wire it into the README once you provide it)*
+
+**Tech**: AWS (Lambda, API Gateway, DynamoDB, S3), Amazon Bedrock, RAG/Knowledge Base, Next.js, TypeScript, Python
+
+---
+
+### 3) [Text-Guided BraTS Segmentation](https://github.com/AmitAK1/Text-Guided-BraTS-Segmentation)
 **Multimodal medical imaging: text-guided brain tumor segmentation (BraTS)**
 - Newest repo (**updated May 16, 2026**) and a strong direction for **multimodal CV + medical AI**
 - Positioning: bridging natural language guidance with 3D/medical segmentation workflows
@@ -31,7 +43,7 @@ I build production-minded ML and CV systems end-to-end—from data + modeling to
 
 ---
 
-### 3) [Automated Bone Age Estimation](https://github.com/AmitAK1/Automated-Bone-Age-Estimation-using-Deep-Learning)
+### 4) [Automated Bone Age Estimation](https://github.com/AmitAK1/Automated-Bone-Age-Estimation-using-Deep-Learning)
 **Pediatric bone age prediction from hand X-rays (RSNA)**
 - **R² = 0.9169 | MAE = 9.04 months** on 12,600+ images
 - Transfer learning with **Xception** + regression head
@@ -41,7 +53,7 @@ I build production-minded ML and CV systems end-to-end—from data + modeling to
 
 ---
 
-### 4) [Real-Time Object Surveillance System](https://github.com/AmitAK1/missing-object-surveillance)
+### 5) [Real-Time Object Surveillance System](https://github.com/AmitAK1/missing-object-surveillance)
 **YOLOv8-based object tracking + monitoring**
 - Real-time detection/tracking pipeline with OpenCV
 - Practical CV system design: alerts + monitoring use-case
@@ -50,20 +62,9 @@ I build production-minded ML and CV systems end-to-end—from data + modeling to
 
 ---
 
-### 5) [PyClean DSL Compiler](https://github.com/AmitAK1/pyclean)
-**English-like DSL → executable Python/Pandas for data cleaning & EDA**
-- Implemented end-to-end compiler pipeline: **Lexer → Parser → AST → Semantic Analysis → CodeGen**
-- Full-stack delivery with **FastAPI backend + React frontend**
-
-**Tech**: Python, compilers, FastAPI, React, TypeScript
-
----
-
 ## 🧪 Additional Projects
 
 - [Research Agent](https://github.com/AmitAK1/Research-Agent) — Python research/agent experiments (**updated Apr 19, 2026**)
-- [Task Manager](https://github.com/AmitAK1/Task-Manager) — Deployed web app (**Vercel**): https://task-manager-liard-pi-92.vercel.app (**updated Apr 11, 2026**)
-- [Multi-AI Chat Platform](https://github.com/AmitAK1/multi-ai-chat-platform) — MERN AI chat app (OpenAI + Gemini)
 
 ---
 
