@@ -28,7 +28,7 @@ I build production-minded ML and CV systems end-to-end—from data + modeling to
 - **Multimodal inputs**: photo-first reporting + multilingual voice notes; spam filtering & verification workflow
 - Cloud-native architecture with **AWS Lambda + API Gateway + DynamoDB + S3**, and GenAI services via **Amazon Bedrock**
 
-**Live / Demo**: *(share link here — I can wire it into the README once you provide it)*
+**Live / Demo**: https://main.d18a1q87hofbl9.amplifyapp.com/
 
 **Tech**: AWS (Lambda, API Gateway, DynamoDB, S3), Amazon Bedrock, RAG/Knowledge Base, Next.js, TypeScript, Python
 
